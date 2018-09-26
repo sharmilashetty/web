@@ -1,0 +1,28 @@
+<?xml  version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/css" href="sty.css" ?>
+<studs>
+<stud>
+<Usn>USN:4VV15CS100</Usn>
+<Name>Name:Shar</Name>
+<College>College:VVCE</College>
+<Branch>Branch:CSE</Branch>
+<Year>2018</Year>
+<e-mail>e-mail:qwert@gmail.com</e-mail>
+</stud>
+<stud>
+<Usn>USN:4VV15CS100</Usn>
+<Name>Name:Shar</Name>
+<College>College:VVCE</College>
+<Branch>Branch:CSE</Branch>
+<Year>2018</Year>
+<e-mail>e-mail:qwert@gmail.com</e-mail>
+</stud>
+<stud>
+<Usn>USN:4VV15CS100</Usn>
+<Name>Name:Shar</Name>
+<College>College:VVCE</College>
+<Branch>Branch:CSE</Branch>
+<Year>2018</Year>
+<e-mail>e-mail:qwert@gmail.com</e-mail>
+</stud>
+</studs>
